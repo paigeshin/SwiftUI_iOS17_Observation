@@ -1,5 +1,8 @@
 # SwiftUI_iOS17_Observation
 
+https://mrprogrammer.medium.com/exploring-the-observation-framework-in-swift-5-9-2a1073bb93a6
+
+https://sarunw.com/posts/observation-framework-in-ios17/
 
 ```swift
 
@@ -28,9 +31,6 @@ class User {
 class AppState {
     
 }
-
-
-// https://sarunw.com/posts/observation-framework-in-ios17/
 
 @main
 struct SwiftDataFlowApp: App {
